@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1764606897 source:d:\working-stage\c-cpp\data-structures\lecture 1 - linked-list\assingment-1\list\main.cpp
+	<iostream>
+	"List.h"
+
+1764604904 d:\working-stage\c-cpp\data-structures\lecture 1 - linked-list\assingment-1\list\list.h
+
+1764606998 source:d:\working-stage\c-cpp\data-structures\lecture 1 - linked-list\assingment-1\list\list.cpp
+	<iostream>
+	"List.h"
+
